@@ -2,7 +2,7 @@
 
 I'm a Software Developer, currently working @ [ARXivar - Able Tech srl](https://www.arxivar.it/it/).
 
-I mainly work with .NET Framework and .NET Core, trying to learn something new every day. I love share what I learn, writing sometimes on [my blog][blog] or doing live coding streaming on [my Twitch channel][twitch].
+I mainly work with .NET Framework and .NET Core, trying to learn something new every day. I love sharing what I learn, writing sometimes on [my blog][blog] or doing live coding streaming on [my Twitch channel][twitch].
 
 When I'm not in front of a PC, I teach Karate at [Master Rapid Ghedi](http://www.masterrapidghedi.it/).
 
