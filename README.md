@@ -1,10 +1,12 @@
 ### Hi there, I'm Alberto 👋
 
-I'm a Software Developer, currently working @ [ARXivar - Able Tech srl](https://www.arxivar.it/it/).
+I'm a Software Developer.
 
-I mainly work with .NET Framework and .NET Core, trying to learn something new every day. I love sharing what I learn with communities, writing sometimes on [my blog][blog] and hosting [UGIdotNET Spike Time][spiketime], a online live show in which I try for the first time libraries, cloud services and everything related to software development. 
+I mainly work with .NET, trying to learn something new every day. I love sharing what I learn with communities, writing sometimes on [my blog][blog] and hosting [UGIdotNET Spike Time][spiketime], a online live show in which I try for the first time libraries, cloud services and everything related to software development. 
 
-When I'm not in front of a PC, I teach Karate at [Master Rapid Ghedi](http://www.masterrapidghedi.it/).
+I'm a [Microsoft MVP](https://mvp.microsoft.com/it-IT/MVP/profile/d9d1d3fb-f651-4194-8e35-8c90911eab16) and one of the founder of [Pirloverflow](https://www.linkedin.com/company/pirloverflow/) a local community based in Brescia (Italy) which hosts monthly meetups.
+
+When I'm not in front of a PC, I teach Karate at [Yuki Karate Ghedi](https://www.yukikarateghedi.it/).
 
 ### Keep in touch!
 
