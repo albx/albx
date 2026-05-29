@@ -1,6 +1,6 @@
 ### Hi there, I'm Alberto 👋
 
-I'm a Software Developer.
+I'm a Software Developer @ [CodicePlastico](https://codiceplastico.com/).
 
 I mainly work with .NET, trying to learn something new every day. I love sharing what I learn with communities, writing sometimes on [my blog][blog] and hosting [UGIdotNET Spike Time][spiketime], a online live show in which I try for the first time libraries, cloud services and everything related to software development. 
 
@@ -10,8 +10,6 @@ When I'm not in front of a PC, I teach Karate at [Yuki Karate Ghedi](https://www
 
 ### Keep in touch!
 
-[<img align="left" alt="About Me" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
-[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitch" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
